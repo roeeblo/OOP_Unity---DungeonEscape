@@ -19,7 +19,8 @@
 ## How to Play
 1. Use the **arrow keys** or **WASD** to move and jump.
 2. Avoid or attack enemies.
-3. Reach the castle to win the level.
+3. Get a key from the shopkeeper
+4. Reach the castle!
 
 ![image](https://github.com/user-attachments/assets/c1cc1be9-7232-445e-987d-60fd72c1c32c)
 
