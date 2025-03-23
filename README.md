@@ -12,7 +12,7 @@
 ### • **Win Condition**: Reach the castle to complete the level and win the game.  
 ### • **OOP Design**: Clean and modular codebase for easy maintenance and extension.
 
-![image](https://github.com/user-attachments/assets/b697d63c-a138-47c9-a144-51c80759afd4)
+![image](https://github.com/user-attachments/assets/6d45c78a-926a-4d63-98ed-78f2b8bd0d8c)
 
 ---
 
