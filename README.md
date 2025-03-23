@@ -21,6 +21,8 @@
 2. Avoid or attack enemies.
 3. Reach the castle to win the level.
 
+![image](https://github.com/user-attachments/assets/c1cc1be9-7232-445e-987d-60fd72c1c32c)
+
 ---
 
 ## EXTRA
