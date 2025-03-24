@@ -3,14 +3,9 @@
 ![image](https://github.com/user-attachments/assets/b9114ce2-89f8-4f1e-9226-777884617677)
 
 ## Overview
-**DungeonEscape** is a 2D platformer game i built using **Unity** and designed with **Object-Oriented Programming** principles. Goal is simple: Kill enemies, get diamonds, buy upgrades and get to the castle
+**DungeonEscape** is a 2D platformer game i built using **Unity** and designed with **Object-Oriented Programming** principles, to future maintain and extend. Goal is simple: Kill enemies, get diamonds, buy upgrades and get to the castle
 
 ---
-
-## Features
-### • **Interactive Environment**: Jump, run, and attack your way to victory.  
-### • **Win Condition**: Reach the castle to complete the level and win the game.  
-### • **OOP Design**: Clean and modular codebase for easy maintenance and extension.
 
 ![image](https://github.com/user-attachments/assets/6d45c78a-926a-4d63-98ed-78f2b8bd0d8c)
 
