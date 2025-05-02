@@ -5,9 +5,10 @@
 ## Overview
 **DungeonEscape** is a 2D platformer game i built using **Unity** and designed with **Object-Oriented Programming** principles, to future maintain and extend. Goal is simple: Kill enemies, get diamonds, buy upgrades and get to the castle
 
----
+Learned level designing, C# scripting for unity, Menus and UI, animations, prefabs, and more
 
-![image](https://github.com/user-attachments/assets/6d45c78a-926a-4d63-98ed-78f2b8bd0d8c)
+---
+![image](https://github.com/user-attachments/assets/641fb968-c6a9-4e86-ae6f-d821caac9ec7)
 
 ---
 ![image](https://github.com/user-attachments/assets/55f442e0-f327-4d44-8701-0d37e23e5406)
@@ -21,8 +22,8 @@
 ![image](https://github.com/user-attachments/assets/c1cc1be9-7232-445e-987d-60fd72c1c32c)
 
 ---
-![image](https://github.com/user-attachments/assets/641fb968-c6a9-4e86-ae6f-d821caac9ec7)
 
+![image](https://github.com/user-attachments/assets/6d45c78a-926a-4d63-98ed-78f2b8bd0d8c)
 
 ## EXTRA
 
